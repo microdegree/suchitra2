@@ -14,7 +14,7 @@ class Home extends Component {
           <div className="leftside">
             
             <img
-              src="https://www.pngmart.com/files/11/Charity-PNG-Transparent-Image.png"
+              src="https://www.graphicsprings.com/filestorage/stencils/a2c41077a3b7dbc6da8c03ffaf1daa43.png?width=500&height=500"
               alt=""
             />
           </div>
@@ -42,20 +42,7 @@ class Home extends Component {
        
         </section>
   </div>
-  <ul class="bubbles">
-    <li1 class="fa fa-heart"></li1>
-    <li1 class="fa fa-heart"></li1>
-    <li1 class="fa fa-heart"></li1>
-    <li1 class="fa fa-heart"></li1>
-    <li1 class="fa fa-heart"></li1>
-    <li1 class="fa fa-heart"></li1>
-    <li1 class="fa fa-heart"></li1>
-    <li1 class="fa fa-heart"></li1>
-    <li1 class="fa fa-heart"></li1>
-    <li1 class="fa fa-heart"></li1>
-    <li1 class="fa fa-heart"></li1>
-    <li1 class="fa fa-heart"></li1>
-  </ul>
+
 </div>
  {/*  */}
  <section id="service">

@@ -36,8 +36,8 @@ class AdminHome extends Component {
               >
                 <div >
                 <div class="row">
-                <div class="col-xl-6 col-lg-12 mb-50">
-                  <h2>Search List</h2>
+                <div class="col-xl-6 col-lg-12 mb-50 ">
+                  <h1>Search List</h1>
                   </div>
                         <div class="col-xl-6 col-lg-12 mb-50">
                 <form class="form-inline my-2 my-lg-0">
@@ -54,7 +54,7 @@ class AdminHome extends Component {
         </section>
         <section class="counts section-bg mt-5">
         <div className=" container-fluid mt-5" id="product">
-          <h2> List Of Donors</h2>
+          <h2> List Of Companies</h2>
 
           <div className="row">
             <div className="col-lg-3 col-md-3 col-sm-3   animated fadeInUp wow animated">

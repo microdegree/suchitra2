@@ -76,8 +76,8 @@ body {
 @media (max-width: 500px) {
   .navbar-nav {
     background-color: #000;
-    border-top: 3px solid #fed136;
-    color: #fff;
+    border-top: 3px solid #010424;
+    color: #010424;
     z-index: 1;
     margin-top: 5px;
   }
@@ -178,7 +178,7 @@ legend {
   margin-top: auto;
   margin-bottom: auto;
   width: 400px;
-  background-color: rgba(163, 141, 16, 0.664) !important;
+  background-color: #0104248c !important;
   color: mintcream;
 }
 #social_icon span {

@@ -206,11 +206,7 @@ export default class Navbar extends Component {
                   Home
                 </a>
               </li>
-              <li className="nav-item">
-                <a className="nav-link" href="">
-                  Do You Know
-                </a>
-              </li>
+         
               <li className="nav-item">
                 <a className="nav-link" href="/#service">
                 About Us
@@ -247,10 +243,10 @@ export default class Navbar extends Component {
                 </a>
                 <div className="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a className="dropdown-item" href="/Login/user">
-                   User Login
+                   Student Login
                   </a>
                   <a className="dropdown-item" href="/Login/vendor">
-                    Admin Login
+                    Company Login
                   </a>
                 </div>
               </li>

@@ -6,12 +6,12 @@ export default function Contact() {
       <div className="footer_section " id="contact">
         <div className="container">
           <section className="main-section contact" id="contact">
-         
+          <div className="contact_section">
             <div className="row">
               <div className="col-lg-6 wow fadeInLeft animated">
               
                 <div className="contact-info-box address clearfix">
-                  <h1>Contact Us</h1>
+                  <h2>Contact Us</h2>
                   <p>
                   Charitable giving is the act of giving money, goods or time to the unfortunate, either directly or by means of a charitable trust or other worthy cause.[9] Charitable giving as a religious act or duty is referred to as almsgiving or alms. The name stems from the most obvious expression of the virtue of charity; giving the recipients of it the means they need to survive. The impoverished, particularly those widowed or orphaned, and the ailing or injured, are generally regarded as the proper recipients of charity. The people who cannot support themselves and lack outside means of support sometimes become "beggars", directly soliciting aid from strangers encountered in public.
 
@@ -113,7 +113,7 @@ Some groups regard charity as being distributed towards o
               
             </div>
       
-
+            </div>
           </section>
         </div>
       </div>

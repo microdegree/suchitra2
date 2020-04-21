@@ -9,7 +9,7 @@ export default class ShowDonors extends Component {
           <div id="portfolio">
             <div class="container showtop   ">
               <div class="page-title text-center">
-                <h1>Donors</h1>
+                <h1>Company</h1>
 
                 <hr class="pg-titl-bdr-btm" />
               </div>
@@ -26,7 +26,7 @@ export default class ShowDonors extends Component {
                       <table class="table table-hover">
                         <tr>
                           <th>
-                            <label>Donors Profile</label>
+                            <label>Company Profile</label>
                           </th>
                           <th>
                             {" "}
@@ -54,7 +54,7 @@ export default class ShowDonors extends Component {
                             ></img>
                             
                           </td>
-                          <td className="tbld">Amrutha</td>
+                          <td className="tbld">abcd</td>
                           <td className="tbld">abcdefghijkl</td>
                           <td className="tbld">000000000</td>
 
@@ -77,7 +77,7 @@ export default class ShowDonors extends Component {
                       <table class="table table-hover">
                         <tr>
                           <th>
-                            <label>Donors Profile</label>
+                            <label>Company Profile</label>
                           </th>
                           <th>
                             {" "}
@@ -105,7 +105,7 @@ export default class ShowDonors extends Component {
                             ></img>
                             
                           </td>
-                          <td className="tbld">Amrutha</td>
+                          <td className="tbld">abcd</td>
                           <td className="tbld">abcdefghijkl</td>
                           <td className="tbld">000000000</td>
 
@@ -128,7 +128,7 @@ export default class ShowDonors extends Component {
                       <table class="table table-hover">
                         <tr>
                           <th>
-                            <label>Donors Profile</label>
+                            <label>Company Profile</label>
                           </th>
                           <th>
                             {" "}
@@ -156,7 +156,7 @@ export default class ShowDonors extends Component {
                             ></img>
                             
                           </td>
-                          <td className="tbld">Amrutha</td>
+                          <td className="tbld">abcd</td>
                           <td className="tbld">abcdefghijkl</td>
                           <td className="tbld">000000000</td>
 
@@ -179,7 +179,7 @@ export default class ShowDonors extends Component {
                       <table class="table table-hover">
                         <tr>
                           <th>
-                            <label>Donors Profile</label>
+                            <label>Company Profile</label>
                           </th>
                           <th>
                             {" "}
@@ -207,7 +207,7 @@ export default class ShowDonors extends Component {
                             ></img>
                             
                           </td>
-                          <td className="tbld">Amrutha</td>
+                          <td className="tbld">abcd</td>
                           <td className="tbld">abcdefghijkl</td>
                           <td className="tbld">000000000</td>
 

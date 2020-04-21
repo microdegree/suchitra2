@@ -157,14 +157,14 @@ export default class Navbar extends Component {
                   aria-haspopup="true"
                   aria-expanded="false"
                 >
-                  Donate
+                  Company
                 </a>
                 <div className="dropdown-menu" aria-labelledby="navbarDropdown">
                   <a className="dropdown-item" href="/vendor/addDonors">
-                    Add Donaters
+                    Add Company
                   </a>
                   <a className="dropdown-item" href="/vendor/ShowDonors">
-                    Show Donaters
+                    Show Company
                   </a>
                 </div>
               </li>
