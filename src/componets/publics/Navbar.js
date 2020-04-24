@@ -228,7 +228,7 @@ export default class Navbar extends Component {
                   Contact
                 </a>
               </li> 
-           
+     
     <li className="nav-item dropdown mr-5">
                 <a
                   className="nav-link dropdown-toggle"
@@ -247,6 +247,9 @@ export default class Navbar extends Component {
                   </a>
                   <a className="dropdown-item" href="/Login/vendor">
                     Company Login
+                  </a>
+                  <a className="dropdown-item" href="/Login/admin">
+                    Admin Login
                   </a>
                 </div>
               </li>

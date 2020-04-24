@@ -54,7 +54,7 @@ class AdminHome extends Component {
         </section>
         <section class="counts section-bg mt-5">
         <div className=" container-fluid mt-5" id="product">
-          <h2> List Of Companies</h2>
+          <h2> List Of Projects</h2>
 
           <div className="row">
             <div className="col-lg-3 col-md-3 col-sm-3   animated fadeInUp wow animated">

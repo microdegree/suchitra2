@@ -2396,9 +2396,9 @@ footer {
   }
 }
 .btn-success {
-  color: #fff;
-  background-color: #505202;
-  border-color: #505202;
+  color: rgb(11, 1, 100);
+  background-color: #ffffff;
+  border-color: #ffffff;
 }
 .subscribe-form {
   font-size: 30px;

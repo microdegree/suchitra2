@@ -24,15 +24,7 @@ class Home extends Component {
            
             <h4> Welcome To Our Studio!</h4>
               <h1>IT'S NICE TO MEET YOU</h1>
-              <a href="/Home#product" className="btn btn-success welcome">
-         Donate
-              </a> &nbsp;
-              <a href="/Home#product" className="btn btn-success welcome">
-              Be inspire
-              </a> &nbsp;
-              <a href="/Home#product" className="btn btn-success welcome">
-            FAQ
-              </a> &nbsp;
+           
               <a href="/Home#product" className="btn btn-success welcome">
               Tell Me More
               </a>

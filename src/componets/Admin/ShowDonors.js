@@ -9,7 +9,7 @@ export default class ShowDonors extends Component {
           <div id="portfolio">
             <div class="container showtop   ">
               <div class="page-title text-center">
-                <h1>Company</h1>
+                <h1>Projects</h1>
 
                 <hr class="pg-titl-bdr-btm" />
               </div>
@@ -26,15 +26,15 @@ export default class ShowDonors extends Component {
                       <table class="table table-hover">
                         <tr>
                           <th>
-                            <label>Company Profile</label>
+                            <label>Project Profile</label>
                           </th>
                           <th>
                             {" "}
-                            <label>Name</label>
+                            <label>Project Tittle</label>
                           </th>
                           <th>
                             {" "}
-                            <label>Address</label>
+                            <label>Description</label>
                           </th>
                           <th>
                             {" "}

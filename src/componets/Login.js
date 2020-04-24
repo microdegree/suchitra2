@@ -48,7 +48,7 @@ class Login extends Component {
       if (username == "") {
         social = "#12055c";
         login = (
-          <a href={`/`} style={{ textDecoration: "none" }}>
+          <a href={`/vendor/Home`} style={{ textDecoration: "none" }}>
             Login
           </a>
         );
@@ -59,7 +59,7 @@ class Login extends Component {
       if (username == "") {
         social = "#d48b04";
         login = (
-          <a href={`/vendor/Home`} style={{ textDecoration: "none" }}>
+          <a href={`/user/Home`} style={{ textDecoration: "none" }}>
             Login
           </a>
         );
@@ -162,6 +162,7 @@ class Login extends Component {
                     </div>
                     <div className="d-flex justify-content-center">
                       <a href="/reset">Forgot your password?</a>
+                      <a href="/main/Home">Admin</a>
                     </div>
                   </div>
                 </div>
